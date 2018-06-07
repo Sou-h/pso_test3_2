@@ -6,7 +6,7 @@
 /* 記号定数 */
 #define NOPS	40				//粒子の個数
 #define LIMITL 256			//配列最大領域
-#define ILIMIT	100			//繰り返しの回数
+#define ILIMIT	10				//繰り返しの回数
 #define SEED	32767		//乱数の初期値
 #define W			0.3			//慣性定数
 #define C1		1.0			//ローカルな質量
